@@ -6,7 +6,7 @@ resource "aws_key_pair" "aws_key" {
 
 # SETUP SECURITY GROUP - AWS FIREWALL
 resource "aws_security_group" "sg_k8s" {
-  name = "sg_k8s"
+  name = "security_group_k8s"
   # Any incoming traffic is allowed
   ingress {
     from_port   = 0
