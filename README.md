@@ -1,1 +1,1 @@
-# Course 7.  PG DO - DevOps Capstone Project
+PG DO - DevOps Capstone Project
